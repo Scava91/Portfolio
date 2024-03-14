@@ -16,7 +16,10 @@ const Home = () => {
 					</h1>
 
 					<p className='home__description'>
-						I'm Moldavian born, Portuguese citizen who is looking for a new challenge as a front-end developer. As a junior employee, I'm eager to learn more about web development.
+						I'm Moldavian born, Portuguese citizen who is looking to start his journey as a front-end developer. My past professional experience has taught me alot and helped me grow as person and as
+						a professional employee. From army to working in a restaurant i have always teamed with all types of personalities and nationalities. I don't have much free time since i'm always working
+						or learning something but whatever spare time i have i usually spend it at the gym or playing videogames. I like all sorts of things but my passion is riding motorbikes. I am looking
+						forward to meeting you and my new colleagues.{' '}
 					</p>
 
 					<Link to='/about' className='button'>
