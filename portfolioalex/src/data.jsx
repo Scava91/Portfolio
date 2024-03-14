@@ -1,10 +1,10 @@
 import { FaHome, FaUser, FaFolderOpen, FaEnvelopeOpen, FaBriefcase, FaGraduationCap, FaCode } from 'react-icons/fa';
 import { FiFileText, FiUser, FiExternalLink } from 'react-icons/fi';
 
-import Work1 from './assets/project-1.jpeg';
+import Work1 from './assets/project-1.jpg';
 import Work2 from './assets/project-2.jpg';
-import Work3 from './assets/project-3.jpeg';
-import Work4 from './assets/project-4.jpeg';
+import Work3 from './assets/project-3.jpg';
+import Work4 from './assets/project-4.jpg';
 import Work5 from './assets/project-5.jpg';
 import Work6 from './assets/project-6.jpg';
 
@@ -222,22 +222,22 @@ export const portfolio = [
 			{
 				icon: <FiFileText />,
 				title: 'Project : ',
-				desc: 'Photo',
+				desc: 'Gym site',
 			},
 			{
 				icon: <FiUser />,
 				title: 'Client : ',
-				desc: 'Dribble',
+				desc: 'Gym Owner',
 			},
 			{
 				icon: <FaCode />,
 				title: 'Language : ',
-				desc: 'Adobe Photoshop',
+				desc: 'React Js',
 			},
 			{
 				icon: <FiExternalLink />,
 				title: 'Preview : ',
-				desc: 'www.dribble.com',
+				desc: 'www.GymPlus.com',
 			},
 		],
 	},
@@ -250,22 +250,22 @@ export const portfolio = [
 			{
 				icon: <FiFileText />,
 				title: 'Project : ',
-				desc: 'Website',
+				desc: 'Car Dealership',
 			},
 			{
 				icon: <FiUser />,
 				title: 'Client : ',
-				desc: 'Dribble',
+				desc: 'Tesla',
 			},
 			{
 				icon: <FaCode />,
 				title: 'Language : ',
-				desc: 'React JS',
+				desc: 'Angular',
 			},
 			{
 				icon: <FiExternalLink />,
 				title: 'Preview : ',
-				desc: 'www.dribble.com',
+				desc: 'www.tesla.com',
 			},
 		],
 	},
@@ -278,22 +278,22 @@ export const portfolio = [
 			{
 				icon: <FiFileText />,
 				title: 'Project : ',
-				desc: 'Video',
+				desc: 'Clothing Store',
 			},
 			{
 				icon: <FiUser />,
 				title: 'Client : ',
-				desc: 'Dribble',
+				desc: 'Made Well',
 			},
 			{
 				icon: <FaCode />,
 				title: 'Language : ',
-				desc: 'Adobe Premium',
+				desc: 'React Js',
 			},
 			{
 				icon: <FiExternalLink />,
 				title: 'Preview : ',
-				desc: 'www.dribble.com',
+				desc: 'www.madewell.com',
 			},
 		],
 	},
@@ -306,22 +306,22 @@ export const portfolio = [
 			{
 				icon: <FiFileText />,
 				title: 'Project : ',
-				desc: 'Video',
+				desc: 'Grocery Store',
 			},
 			{
 				icon: <FiUser />,
 				title: 'Client : ',
-				desc: 'Dribble',
+				desc: 'Fine Food',
 			},
 			{
 				icon: <FaCode />,
 				title: 'Language : ',
-				desc: 'Adobe Premium',
+				desc: 'React Js',
 			},
 			{
 				icon: <FiExternalLink />,
 				title: 'Preview : ',
-				desc: 'www.dribble.com',
+				desc: 'www.finefood.com',
 			},
 		],
 	},
@@ -333,19 +333,19 @@ export const portfolio = [
 		details: [
 			{
 				title: 'Project : ',
-				desc: 'Website',
+				desc: 'Airport Website',
 			},
 			{
 				title: 'Client : ',
-				desc: 'Dribble',
+				desc: 'Sever Sky',
 			},
 			{
 				title: 'Language : ',
-				desc: 'React JS, Node JS',
+				desc: 'React JS',
 			},
 			{
 				title: 'Preview : ',
-				desc: 'www.dribble.com',
+				desc: 'www.sevensky.com',
 			},
 		],
 	},
@@ -358,22 +358,22 @@ export const portfolio = [
 			{
 				icon: <FiFileText />,
 				title: 'Project : ',
-				desc: 'Photo',
+				desc: 'Betting Site',
 			},
 			{
 				icon: <FiUser />,
 				title: 'Client : ',
-				desc: 'Dribble',
+				desc: 'Betting Manager',
 			},
 			{
 				icon: <FaCode />,
 				title: 'Language : ',
-				desc: 'Adobe Photoshop',
+				desc: 'React Js',
 			},
 			{
 				icon: <FiExternalLink />,
 				title: 'Preview : ',
-				desc: 'www.dibble.com',
+				desc: 'www.soccer.com',
 			},
 		],
 	},
