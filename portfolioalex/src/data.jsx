@@ -217,7 +217,7 @@ export const portfolio = [
 	{
 		id: 1,
 		img: Work1,
-		title: 'Photo Editing',
+		title: 'Website Design',
 		details: [
 			{
 				icon: <FiFileText />,
@@ -273,7 +273,7 @@ export const portfolio = [
 	{
 		id: 3,
 		img: Work3,
-		title: 'Video Editing',
+		title: 'Website Design',
 		details: [
 			{
 				icon: <FiFileText />,
@@ -301,7 +301,7 @@ export const portfolio = [
 	{
 		id: 4,
 		img: Work4,
-		title: 'Video Editing',
+		title: 'Website Design',
 		details: [
 			{
 				icon: <FiFileText />,
@@ -329,7 +329,7 @@ export const portfolio = [
 	{
 		id: 5,
 		img: Work5,
-		title: 'Landing Page',
+		title: 'Website Design',
 		details: [
 			{
 				title: 'Project : ',
@@ -353,7 +353,7 @@ export const portfolio = [
 	{
 		id: 6,
 		img: Work6,
-		title: 'Photo Editing',
+		title: 'Website Design',
 		details: [
 			{
 				icon: <FiFileText />,
